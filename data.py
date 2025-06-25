@@ -3,7 +3,7 @@ import json
 import emailalert
 from datetime import datetime
 
-file = './resources/data.json'
+file = './data/data.json'
 registry = resources.registry
 main = {'Detections': []}
 
